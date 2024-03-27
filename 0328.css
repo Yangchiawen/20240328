@@ -1,0 +1,90 @@
+@charset "utf-8";
+
+.container {
+    margin-right: auto;
+    margin-left: auto;
+    width: 1000px;
+}
+header h1 {
+    text-align: center;
+    font-size: 60px;
+    color: #207E2E;
+    font-family: "華康粗圓體", "微軟正黑體", "Noto Sans CJK JP", "Noto Sans CJK JP DemiLight", "Noto Sans CJK KR DemiLight";
+
+}
+nav a:link {
+    text-align: center;
+    color: #165A21;
+    text-decoration: none;
+    font-size: 24px;
+    background-size: cover;
+    background-clip: padding-box;
+}
+nav a:hover {
+    color: #6DAD4E;
+    font-family: "華康粗圓體", "微軟正黑體", "Noto Sans CJK JP", "Noto Sans CJK JP DemiLight", "Noto Sans CJK KR DemiLight";
+}
+main article {
+    line-height: 44px;
+
+}
+
+nav p {
+    text-align: center;
+    font-family: "華康粗圓體", "微軟正黑體", "Noto Sans CJK JP", "Noto Sans CJK JP DemiLight", "Noto Sans CJK KR DemiLight";
+    font-size: 14px;
+}
+.heroimg   {
+    height: 700px;
+    background-color: #C35A5C;
+    background-image: url(assets/9b39e0499306d60a2740d07be3f38f0a4a931baa.jpg);
+    background-position: center center;
+    background-size: cover;
+    border-radius: 10px;
+    width: 1000px;
+}
+article h3 {
+    background-color: #7BB283;
+    border-radius: 5px;
+    height: 41px;
+    width: 1000px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    line-height: 42px;
+    padding-bottom: 10px;
+    font-family: "華康粗圓體", "微軟正黑體", "Noto Sans CJK JP", "Noto Sans CJK JP DemiLight", "Noto Sans CJK KR DemiLight";
+}
+.container {
+    width: 1000px;
+    margin-right: auto;
+    margin-left: auto;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+
+}
+body {
+    background-color: #F0C225;
+    font-family: "華康粗圓體", "微軟正黑體", "Noto Sans CJK JP", "Noto Sans CJK JP DemiLight", "Noto Sans CJK KR DemiLight";
+}
+main {
+    background-color: #FFFFFF;
+    height: 0px;
+    font-family: "華康粗圓體", "微軟正黑體", "Noto Sans CJK JP", "Noto Sans CJK JP DemiLight", "Noto Sans CJK KR DemiLight";
+}
+Header nav {
+
+}
+body123 {
+}
+article article {
+    width: 1000px;
+    text-align: center;
+}
+frame {
+    width: 1000px;
+    height: 500px;
+}
+article article iframe {
+    width: 1020px;
+    height: 720px;
+}
